@@ -1,0 +1,12 @@
+Project activity Log
+
+• Developed part of the minimum basic version [1st August 2015]
+• Started Wireframes [1st September 2015]
+	• 1st online meeting kick off [5th September 2015]
+• Completed the wireframes for the web and the mobile [17th September 2015]
+	• 2nd online meeting I show the wireframes and get feedback for next [19th September 2015]
+• Continue develop the basic version [20th September 2015]
+• Started PSD design [21st September 2015]
+• Published the project on GitHub and VSO [1st October 2015]
+• Finished the PSD design and started transforming PSD into HTML [10th October 2015]
+	• 3rd online meeting, showed GitHub, how to run, get feedback on next [18th October 2015]
