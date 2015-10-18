@@ -6,6 +6,7 @@ Develop the service (Web API) layer as the 1.0.0-alpha doesn’t use that layer 
 		Develop another MVC that use the service layer
 			Develop WPF
 			Develop Windows Phone
+			Develop Windows Universal App
 			Develop Xamrine
 			Develop iOS
 			Develop Android
