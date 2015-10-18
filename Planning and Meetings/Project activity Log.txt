@@ -11,3 +11,4 @@ Project activity Log
 • Finished the PSD design and started transforming PSD into HTML [10th October 2015]
 	• 3rd online meeting, showed GitHub, how to run, get feedback on next [18th October 2015]
 • Added the planning document to the Planning and Meeting folder on MICS repo GitHub [18th October 2015]
+• Added the PSD and the used fonts to MICS repo GitHub [18th October 2015]
