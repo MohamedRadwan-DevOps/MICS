@@ -1,0 +1,21 @@
+﻿Complete the full HTML pages
+	Create animated prototypes for the web (Full application, happy and alternative scenarios)
+		Create animated prototypes for other platforms (Most high priority features)
+Develop the service (Web API) layer as the 1.0.0-alpha doesn’t use that layer cause it’s not completed
+	Develop integration test for the service layer
+		Develop another MVC that use the service layer
+		Develop WPF
+		Develop Windows Phone
+		Develop Xamrine
+		Develop iOS
+		Develop Android
+		Develop Apache Cordova
+		Develop Java
+		Develop PHP
+Configure automated build on VSO and try to do that for both (VSO and GitHub)
+Configure a local automated build on Azure (XAML and New Agent)
+Configure a VM as host machine on Azure and manually deploy the last release
+Configure Microsoft Azure Web Sites to host the last release
+	Configure a continues delivery to deploy the latest check-in to the servers (Azure website and VM)
+
+
