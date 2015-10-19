@@ -13,3 +13,4 @@ Project activity Log
 • Added the planning document to the Planning and Meeting folder on MICS repo GitHub [18th October 2015]
 • Added the PSD and the used fonts to MICS repo GitHub [18th October 2015]
 • Added a video on YouTube on how to install SQL Server 2014 Express (Free), Visual Studio 2015 Community (Free) and then download the first release (1.0.0-alpha) the link on the readme file [19th October 2015]
+• Sync the last changes with VSO [19th October 2015]
