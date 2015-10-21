@@ -1,4 +1,16 @@
-Complete the main HTML pages for the web 
+Here the main projects:
+
+	1.Complete the main HTML pages for the web 
+	2.Integrate the completed HTML with the current project		
+	3.Create animated prototypes main pages for the web  (happy and alternative scenarios)
+	4.Develop the service (Web API) layer as the 1.0.0-alpha doesn’t use that layer because it’s not completed
+	5.Develop another MVC that use the service layer (last MVC but not DNX it's another project)
+	6.Document the requirements of the project, it includes all the requirements (the full not only the main) as:
+	7.Create videos as step-by-step for the final approval results
+
+Here the detiels for each proejct:
+
+1.Complete the main HTML pages for the web 
 		Users
 			User Registration
 			Customer Login
@@ -15,9 +27,9 @@ Complete the main HTML pages for the web
 			List all orders
 			Edit order (state)
 			
-		Integrate the completed HTML with the current project		
+		2.Integrate the completed HTML with the current project		
 			
-		Create animated prototypes main pages for the web  (happy and alternative scenarios)
+		3.Create animated prototypes main pages for the web  (happy and alternative scenarios)
 			Users
 				User Registration
 				Customer Login
@@ -42,7 +54,7 @@ Complete the main HTML pages for the web
 					Android
 					Desktop (Java)
 					
-	Develop the service (Web API) layer as the 1.0.0-alpha doesn’t use that layer because it’s not completed
+	4.Develop the service (Web API) layer as the 1.0.0-alpha doesn’t use that layer because it’s not completed
 	
 
 		Users
@@ -63,7 +75,7 @@ Complete the main HTML pages for the web
 			
 	
 
-		Develop another MVC that use the service layer (last MVC but not DNX it's another project)
+		5.Develop another MVC that use the service layer (last MVC but not DNX it's another project)
 		
 		Develop WPF
 		Develop Windows Phone
@@ -75,12 +87,12 @@ Complete the main HTML pages for the web
 		Develop Java
 		Develop PHP
 		
-	Document the requirements of the project, it includes all the requirements (the full not only the main) as:
+	6.Document the requirements of the project, it includes all the requirements (the full not only the main) as:
 			Use case scenarios
 			PBI (Scrum)
 			Create UML diagrams (Use case, Activity Diagram, package, etc)
 
-Create videos as step-by-step for the final approval results
+7.Create videos as step-by-step for the final approval results
 		How to develop the basic part (1.0.0-alpha)
 		How to transform the PSD into HTML
 		How to integrate the HTML with the basic version
