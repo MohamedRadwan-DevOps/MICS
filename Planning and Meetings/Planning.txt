@@ -8,7 +8,7 @@ Here the main projects:
 	6.Document the requirements of the project, it includes all the requirements (the full not only the main) as:
 	7.Create videos as step-by-step for the final approval results
 
-Here the detiels for each proejct:
+Here the details for each project:
 
 1.Complete the main HTML pages for the web 
 		Users
