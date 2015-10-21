@@ -3,10 +3,11 @@ Here the main projects:
 	1.Complete the main HTML pages for the web 
 	2.Integrate the completed HTML with the current project		
 	3.Create animated prototypes main pages for the web  (happy and alternative scenarios)
-	4.Develop the service (Web API) layer as the 1.0.0-alpha doesn’t use that layer because it’s not completed
-	5.Develop another MVC that use the service layer (last MVC but not DNX it's another project)
-	6.Document the requirements of the project, it includes all the requirements (the full not only the main) as:
-	7.Create videos as step-by-step for the final approval results
+	4.Create animated prototypes for the main pages for other platforms users only (No admin)
+	5.Develop the service (Web API) layer as the 1.0.0-alpha doesn’t use that layer because it’s not completed
+	6.Develop another MVC that use the service layer (last MVC but not DNX it's another project)
+	7.Document the requirements of the project, it includes all the requirements (the full not only the main) as:
+	8.Create videos as step-by-step for the final approval results
 
 Here the details for each project:
 
@@ -46,7 +47,7 @@ Here the details for each project:
 				List all orders
 				Edit order (state)
 				
-				Create animated prototypes for the main pages for other platforms users only (No admin)
+				4.Create animated prototypes for the main pages for other platforms users only (No admin)
 					WPF (Windows Desktop)
 					Windows Phone
 					Windows Universal App
@@ -54,7 +55,7 @@ Here the details for each project:
 					Android
 					Desktop (Java)
 					
-	4.Develop the service (Web API) layer as the 1.0.0-alpha doesn’t use that layer because it’s not completed
+	5.Develop the service (Web API) layer as the 1.0.0-alpha doesn’t use that layer because it’s not completed
 	
 
 		Users
@@ -75,7 +76,7 @@ Here the details for each project:
 			
 	
 
-		5.Develop another MVC that use the service layer (last MVC but not DNX it's another project)
+		6.Develop another MVC that use the service layer (last MVC but not DNX it's another project)
 		
 		Develop WPF
 		Develop Windows Phone
@@ -87,12 +88,12 @@ Here the details for each project:
 		Develop Java
 		Develop PHP
 		
-	6.Document the requirements of the project, it includes all the requirements (the full not only the main) as:
+	7.Document the requirements of the project, it includes all the requirements (the full not only the main) as:
 			Use case scenarios
 			PBI (Scrum)
 			Create UML diagrams (Use case, Activity Diagram, package, etc)
 
-7.Create videos as step-by-step for the final approval results
+8.Create videos as step-by-step for the final approval results
 		How to develop the basic part (1.0.0-alpha)
 		How to transform the PSD into HTML
 		How to integrate the HTML with the basic version
