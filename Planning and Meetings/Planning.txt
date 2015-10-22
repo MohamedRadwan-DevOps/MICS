@@ -7,7 +7,7 @@ Here the main projects:
 	5.Develop the service (Web API) layer as the 1.0.0-alpha doesn’t use that layer because it’s not completed
 	6.Develop another MVC that use the service layer (last MVC but not DNX it's another project)
 	7.Document the requirements of the project, it includes all the requirements (the full not only the main) as:
-	8.Create videos as step-by-step for the final approval results
+	8.Create videos as step-by-step for the final approval results for most parts of the projects
 
 Here the details for each project:
 
